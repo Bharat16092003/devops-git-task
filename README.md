@@ -117,12 +117,9 @@ devops-git-project/
 
 ## 🖼️ Screenshots Section
 
-```markdown
 ![Branches](./screenshot/branches.png)
 ![Pull Request](./screenshot/pull-request.png)
 ![Merge History](./screenshot/merge-history.png)
-
-```
 
 ---
 
