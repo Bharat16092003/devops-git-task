@@ -1,4 +1,4 @@
-# 🚀 DevOps Internship – Task 4: Git Version Control Project
+# 🚀 DevOps Internship – Task 3: Git Version Control Project
 
 ## 🎯 Objective
 
